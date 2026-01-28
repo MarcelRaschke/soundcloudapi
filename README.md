@@ -32,7 +32,7 @@ Please don't post security issues or vulnerabilities here. Instead, submit them 
 ## Frequently asked questions
 ### Can I request an API key for a new app?
 You can register for an API key by going to your profile [you/apps](https://www.soundcloud.com/you/apps)
-Please also subscribe to our [@SoundCloudDev] on Twitter or our [Backstage Blog] for API Announcements
+Please also subscribe to our `@SoundCloudDev` on [X](https://x.com/SoundCloudDev) or [Bluesky](https://bsky.app/profile/soundcloud.dev) or our [Backstage Blog] for API Announcements
 
 ### How can I update my app's `redirect_uri`?
 Our Support Team will be happy to help you with your URI's redirects. Please fill out a ticket [here] under "I need help with something else" and they will get back to you as soon as they can.
